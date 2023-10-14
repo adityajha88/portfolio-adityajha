@@ -36,14 +36,14 @@
         {
             "id":"2",
             "src":"./img/dashboard.png",
-            "title":"App dashboard",
+            "title":"Dashboard",
             "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
             "link":"View In Github"
         },
         {
             "id":"3",
             "src":"./img/shaman.png",
-            "title":"Easy Rentern",
+            "title":"Automobile",
             "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
             "link":"View In Github"
         }

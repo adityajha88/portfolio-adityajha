@@ -5,11 +5,11 @@ export default function MyPortfolio() {
         <section className="portfolio--section" id="MyPortfolio">
             <div className="portfolio--container--box">
                 <div className="portfolio--container">
-                    <p className="sub--title">
+                    {/* <p className="sub--title">
                         Recent Projects
-                    </p>
+                    </p> */}
                     <h2 className="section--heading">
-                        My Portfolio
+                        My Github
                     </h2>
                 </div>
                 <div>
@@ -43,7 +43,7 @@ export default function MyPortfolio() {
                                 <h3 className="portfolio--section--title">{item.title}</h3>
                                 <p className="text-md">{item.desciption}</p>
                             </div>
-                            <p className="text-sm portfolio--link">
+                            {/* <p className="text-sm portfolio--link">
                                 {item.link}
                                 <svg
                                 xmlns="http://www.w3.org/2000/svg"
@@ -60,7 +60,7 @@ export default function MyPortfolio() {
                                     stroke-linejoin="round"
                                 />
                                 </svg>
-                            </p>
+                            </p> */}
                         </div>
                     </div>
                 ))}
