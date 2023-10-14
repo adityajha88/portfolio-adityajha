@@ -62,24 +62,24 @@ function Footer() {
                 Contact
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link
                 activeClass="navbar--active-content"
                 spy={true}
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="testimonial"
+                to="Testimonial"
                 className="text-md"
               >
                 Testimonials
               </Link>
-            </li>
+            </li> */}
           </ul>
         </div>
         <div className="footer--social--icon">
           <ul>
-            <li>
+            {/* <li>
               <a
                 href="https://www.facebook.com/"
                 className="navbar--content"
@@ -143,7 +143,7 @@ function Footer() {
                   />
                 </svg>
               </a>
-            </li>
+            </li> */}
             <li>
               <a
                 href="https://www.linkedin.com/"
@@ -172,7 +172,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
+        {/* <p className="footer--content">Made with 💖 by John</p> */}
         <div className="footer--social--icon">
           <ul>
             <li>

@@ -12,17 +12,17 @@ export default function AboutMe(){
             </div>
             <div className="heo--section--content--box about--section--box">
                 <div className="hero--section--content">
-                    <p className="section--title">
+                    {/* <p className="section--title">
                         About
-                    </p>
+                    </p> */}
                     <h1 className="skills--section--heading">
                         About Me
                     </h1>
                     <p className="hero--section--description">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, suscipit laboriosam illo, veniam officiis voluptatum soluta, nemo dolore quas dolores in dignissimos exercitationem voluptatibus excepturi sequi adipisci esse commodi? Adipisci.
+                        I'm a passionate full-stack web developer with more than a year of experience.
                     </p>
                     <p className="hero--section--description">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, suscipit laboriosam illo, veniam officiis voluptatum solut
+                        Throughout my career journey, I've had the privilege of creating user-friendly websites and collaborating closely with development teams to address client requirements effectively.
                     </p>
                 </div>
             </div>

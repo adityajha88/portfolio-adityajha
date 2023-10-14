@@ -2,47 +2,47 @@
     "skills":[
         {
             "id":"1",
-            "src":"./img/product-chain-1.png",
+            "src":"./img/feather-pen-1.png",
             "title":"Front-End",
-            "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+            "description":"Have build user friendly responsive front-end application."
         },
         {
             "id":"2",
-            "src":"./img/tag-1.png",
+            "src":"./img/python.png",
             "title":"Back-End",
-            "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+            "description":"Backend developer with expertise in building scalable, reliable, and secure applications."
         },
         {
             "id":"3",
-            "src":"./img/feather-pen-2.png",
-            "title":"UI & UX Design",
-            "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+            "src":"./img/API.png",
+            "title":"API",
+            "description":"Experience in building restfull API using Django-Rest Framework."
         },
         {
             "id":"4",
-            "src":"./img/feather-pen-1.png",
-            "title":"Webflow Development",
-            "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+            "src":"./img/django.svg",
+            "title":"Django",
+            "description":"Used Django framework for backend for proper structure and with faster Django ORM."
         }
     ],
     "portfolio":[
         {
             "id":"1",
-            "src":"./img/placeholder-image.png",
-            "title":"Ahuse",
+            "src":"./img/sky.png",
+            "title":"SKYcrm",
             "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
             "link":"View In Github"
         },
         {
             "id":"2",
-            "src":"./img/placeholder-image-1.png",
+            "src":"./img/dashboard.png",
             "title":"App dashboard",
             "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
             "link":"View In Github"
         },
         {
             "id":"3",
-            "src":"./img/placeholder-image-2.png",
+            "src":"./img/shaman.png",
             "title":"Easy Rentern",
             "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
             "link":"View In Github"
