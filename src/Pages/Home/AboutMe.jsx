@@ -1,8 +1,14 @@
+import React from "react";
+import Lottie from "lottie-react";
+
+import Animation2 from "../../lottie/Animation2.json";
+
 export default function AboutMe(){
     return (
         <section id="AboutMe" className="about--section">
             <div className="about--section--img">
-                <img src="./img/about-me.png" alt="About Me" />
+                {/* <img src="./img/about-me.png" alt="About Me" /> */}
+                <Lottie animationData={Animation2} />
             </div>
             <div className="heo--section--content--box about--section--box">
                 <div className="hero--section--content">
