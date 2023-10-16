@@ -5,9 +5,9 @@ function Footer() {
   return (
     <footer className="footer--container">
       <div className="footer--link--container">
-        {/* <div>
-          <img src="./img/logo.svg" alt="Logoipsum" />
-        </div> */}
+        <div>
+          <img src="./img/logo.png" alt="Logoipsum" />
+        </div>
         <div className="footer--items">
           <ul>
             <li>
